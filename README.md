@@ -1,2 +1,2 @@
 # SpaceTargetSample-NReal
- SpaceTarget 3rd AR sdk sample , base on MR Nreal
+This is a sample about NReal base on SpaceTarget
